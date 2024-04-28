@@ -50,7 +50,7 @@ params:
     profileMode:
           enabled: true
           title: "Benjamin Hattemer"
-          subtitle: "I am Benjamin Hattemer, a early stage reseacher in economics from the European University Institute. I do applied research in environmental and education economics. My superviors are [<u>Thomas Crossley</u>](https://sites.google.com/site/tfcrossley/) and [<u>Alexander Monge-Naranjo<u>](https://alexandermonge.com/)."
+          subtitle: "I am Benjamin Hattemer, an early stage reseacher in economics from the European University Institute. I do applied research in environmental and education economics. My superviors are [<u>Thomas Crossley</u>](https://sites.google.com/site/tfcrossley/) and [<u>Alexander Monge-Naranjo<u>](https://alexandermonge.com/)."
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
