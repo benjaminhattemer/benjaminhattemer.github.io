@@ -8,7 +8,7 @@ description: "Publications, working papers and other work in progress"
   
 - *Recruting Better Teachers? Evidence from a higher Education Reform in Chile* (with [Sofia Sierra Vasquez](https://sofiasierrav.com/), [Adriano De Falco](https://www.adrianodefalco.com/home-page))[Draft coming soon]
 
-- *Temperature and learning in Chile*
+- *Temperature and Learning in Chile*
 
 - *Bidding for the Environment: Allocation Independence in Cap-and-Trade Systems*
 
