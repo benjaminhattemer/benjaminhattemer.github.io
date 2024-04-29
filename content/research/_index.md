@@ -12,9 +12,11 @@ description: "Publications, working papers and other work in progress"
 
 - *Bidding for the Environment: Allocation Independence in Cap-and-Trade Systems*
 
-## Policy Work
+## Policy Papers
 
 - *The Manufacturing Sector in the New Era of the EU ETS* (with Fotios Kalantzis)
+
+## Other Policy Work
 
 - *Investment Report 2023/2024: Transforming for Competitiveness, European Investment Bank, Chapter 5*
 
