@@ -50,15 +50,15 @@ params:
     profileMode:
           enabled: true
           title: "Benjamin Hattemer"
-          subtitle: "I am Benjamin Hattemer, a PhD candidate in economics from the European University Institute. I do applied research in environmental and education economics. My superviors are [<u>Thomas Crossley</u>](https://sites.google.com/site/tfcrossley/) and [<u>Alexander Monge-Naranjo<u>](https://alexandermonge.com/)."
+          subtitle: "I am Benjamin Hattemer, a PhD candidate in economics from the European University Institute. I do applied research in environmental and education economics. My superviors are [<u>Thomas Crossley</u>](https://sites.google.com/site/tfcrossley/) and [<u>Alexander Monge-Naranjo.<u>](https://alexandermonge.com/)"
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
           imageTitle: Benjamin Hattemer
           buttons:
-            - name: CV
+             name: CV
               url: cv.pdf
-            - name: Research
+             name: Research
               url: research/
  #           - name: Data
  #             url: data/
