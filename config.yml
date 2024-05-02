@@ -50,7 +50,7 @@ params:
     profileMode:
           enabled: true
           title: "Benjamin Hattemer"
-          subtitle: "I am Benjamin Hattemer, an early stage reseacher in economics from the European University Institute. I do applied research in environmental and education economics. My superviors are [<u>Thomas Crossley</u>](https://sites.google.com/site/tfcrossley/) and [<u>Alexander Monge-Naranjo<u>](https://alexandermonge.com/)."
+          subtitle: "I am Benjamin Hattemer, a PhD candidate in economics from the European University Institute. I do applied research in environmental and education economics. My superviors are [<u>Thomas Crossley</u>](https://sites.google.com/site/tfcrossley/) and [<u>Alexander Monge-Naranjo<u>](https://alexandermonge.com/)."
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
@@ -73,8 +73,8 @@ params:
    #       url: cv.pdf
         - name: Email
           url: mailto:benjamin.hattemer@eui.eu
-   #     - name: Location
-    #      url: location/
+        - name: Location
+          url: https://maps.app.goo.gl/StzFuEpafnLvjaCF7
     #    - name: Office Hours
     #      url: officehours/
     #    - name: Google Scholar
@@ -85,8 +85,8 @@ params:
    #       url: https://github.com/pmichaillat
     #    - name: Substack
     #      url: https://pmichaillat.substack.com
-    #    - name: Twitter
-    #      url: https://twitter.com/pmichaillat
+        - name: Twitter
+          url: https://twitter.com/BenjaminHa68520
 
     assets:
         disableHLJS: true
