@@ -6,7 +6,7 @@ description: "Publications, working papers and other work in progress"
 
 ## Working Papers
 
-- *Dust to Dust: Tracing Air Pollution’s Impact on Work Accidents* (with [Ismael Moreno-Martinez](https://ismaelmorenomartinez.eu/)) [Draft coming soon](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4812658)
+- *Dust to Dust: Tracing Air Pollution’s Impact on Work Accidents* (with [Ismael Moreno-Martinez](https://ismaelmorenomartinez.eu/)) [Draft](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4812658)
 
 ## Work in Progress
 
