@@ -56,10 +56,10 @@ params:
           imageHeight: 160
           imageTitle: Benjamin Hattemer
           buttons:
-             name: CV
-              url: cv.pdf
-             name: Research
-              url: research/
+            - name: CV
+             - url: cv.pdf
+            - name: Research
+             - url: research/
  #           - name: Data
  #             url: data/
  #           - name: Newsletter
