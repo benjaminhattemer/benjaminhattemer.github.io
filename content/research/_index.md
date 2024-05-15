@@ -31,6 +31,8 @@ with [Ismael Moreno-Martinez](https://ismaelmorenomartinez.eu/)) <br>
 This paper analyzes the impact of a recruitment policy aimed at improving the quality of new teachers. The reform introduced a scholarship to incentivize the enrollment of high-achieving high school graduates in teacher training programs and imposed enrollment restrictions on low-achieving high school graduates. The screening device used to define achievement was the national standardized university entry exam. Using rich administrative data, we document that the reform was effective in improving the average test scores of new teachers, especially in public schools. To assess the impact of the reform on teacher quality, we construct teacher value-added (TVA) measures based on standardized test scores of their pupils. Our findings indicate that the reform led to a significant increase in the TVA of mathematics teachers, equivalent to 30\% of their standard deviation. However, it did not affect the average TVA of Spanish teachers. We provide evidence that this heterogeneity across subjects can be explained by differences in the predictive power of test scores on teacher quality. Finally, we show that the increase in average teacher quality cannot be explained solely by the higher presence of high-achieving teachers. 
 </details> 
 
+<br>
+
 **Temperature and Learning in Chile**
 <details>
     <summary> Abstract </summary>
