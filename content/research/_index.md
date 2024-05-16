@@ -7,7 +7,7 @@ description: "Publications, working papers and other work in progress"
 ## Working Papers
 
 **Dust to Dust: Tracing Air Pollution’s Impact on Work Accidents** <br>
-with [Ismael Moreno-Martinez](https://ismaelmorenomartinez.eu/)) <br> 
+with [Ismael Moreno-Martinez](https://ismaelmorenomartinez.eu/) <br> 
 [Draft](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4812658)
 
 ###### Presented (or will be presented) at: 24th EAERE Annual Conference, KU Leuven; 2nd Young AERNA Day, University of Girona; 10th Atlantic Workshop on Energy and Environmental Economics; Early Career Workshop on the Environment, Climate Change and Disasters, Gran Sasso Science Institute; 1st International Conference of the Georgian Economic Association; Microeconometrics Working Group, EUI; Norges Bank; Institute for Labour Law and Industrial Relations in the European Union
@@ -22,7 +22,8 @@ with [Ismael Moreno-Martinez](https://ismaelmorenomartinez.eu/)) <br>
 
 ## Work in Progress
 
-**Recruting Better Teachers? Evidence from a higher Education Reform in Chile** (with [Sofia Sierra Vasquez](https://sofiasierrav.com/), [Adriano De Falco](https://www.adrianodefalco.com/home-page))[Draft coming soon]
+**Recruting Better Teachers? Evidence from a higher Education Reform in Chile** <br>
+with [Sofia Sierra Vasquez](https://sofiasierrav.com/) and [Adriano De Falco](https://www.adrianodefalco.com/home-page)[Draft coming soon]
 
 ###### Presented: 8th LEER conference, 1st CESifo/ifo Junior Workshop on the Economics of Education, EALE 2023, SAEe 2023, AIEL - Padua Workshop on the Economics of Human Capital 2024, EAYE conference 2024. 
 
@@ -36,17 +37,20 @@ This paper analyzes the impact of a recruitment policy aimed at improving the qu
 **Temperature and Learning in Chile**
 <details>
     <summary> Abstract </summary>
-This paper demonstrates that extreme temperatures negatively affect learning outcomes in particular for students with a low-income background. Using panel data of school averages from more than one and a half million students in Chile taking a standardized university entry exam, I show that cold days are particularly damaging. By looking at school attendance data for the whole population of Chilean pupils, 
-I examine school absence as a potential impact channel. Results show that heat significantly increases school absence. Lower school attendance can therefore explain decreased learning outcomes due to heat, but not for the measured impact due to cold days.
+This paper demonstrates that extreme temperatures negatively affect learning outcomes, particularly for students from low-income backgrounds. Using panel data of school averages from more than one and a half million students in Chile taking a standardized university entry exam, I show that cold days are particularly damaging. By looking at school attendance data for the whole population of Chilean pupils, 
+I examine school absence as a potential impact channel. Results show that heat significantly increases school absence. Lower school attendance can, therefore, explain decreased learning outcomes due to heat, but not for the measured impact due to cold days.
 </details> 
 
+<br>
 
 **Bidding for the Environment: Allocation Independence in Cap-and-Trade Systems**
 
 
 ## Policy Papers
 
-**The Manufacturing Sector in the New Era of the EU ETS** (with Fotios Kalantzis)
+**The Manufacturing Sector in the New Era of the EU ETS** <br>
+with Fotios Kalantzis <br>
+[Draft coming soon]
 
 ## Other Policy Work
 
