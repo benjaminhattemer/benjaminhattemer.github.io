@@ -26,7 +26,7 @@ with [Ismael Moreno-Martinez](https://ismaelmorenomartinez.eu/) <br>
 with [Sofia Sierra Vasquez](https://sofiasierrav.com/) and [Adriano De Falco](https://www.adrianodefalco.com/home-page) <br> 
 [Draft](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4874361)
 
-###### Presented: 8th LEER conference, 1st CESifo/ifo Junior Workshop on the Economics of Education, EALE 2023, SAEe 2023, AIEL - Padua Workshop on the Economics of Human Capital 2024, EAYE conference 2024. 
+###### Presented: 8th LEER conference, 1st CESifo/ifo Junior Workshop on the Economics of Education, EALE 2023, SAEe 2023, AIEL - Padua Workshop on the Economics of Human Capital 2024, EAYE conference 2024, 6th QMUL Economics and Finance Workshop (2024), BSE Summer Forum (2024), XVI Labour Economics Meeting. 
 
 <details>
     <summary> Abstract </summary>
