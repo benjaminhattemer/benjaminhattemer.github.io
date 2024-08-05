@@ -47,13 +47,12 @@ I examine school absence as a potential impact channel. Results show that heat s
 **Bidding for the Environment: Allocation Independence in Cap-and-Trade Systems**
 
 
-## Policy Papers
-
-**The Manufacturing Sector in the New Era of the EU ETS** <br>
-with Fotios Kalantzis <br>
+**Rising costs, rising gains: Analysing the effects of escalating ETS prices and
+reduced free allowances in Phase IV** <br>
+with Jan Eric Hagend and Fotios Kalantzis <br>
 [Draft coming soon]
 
-## Other Policy Work
+## Policy Work
 
 **Investment Report 2023/2024: Transforming for Competitiveness, European Investment Bank, Chapter 5**
 
