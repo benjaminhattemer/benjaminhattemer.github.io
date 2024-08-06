@@ -26,7 +26,7 @@ with [Sofia Sierra Vasquez](https://sofiasierrav.com/) and [Adriano De Falco](ht
 
 ###### Presented: 8th LEER conference, 1st CESifo/ifo Junior Workshop on the Economics of Education, EALE 2023, SAEe 2023, AIEL - Padua Workshop on the Economics of Human Capital 2024, EAYE conference 2024, 6th QMUL Economics and Finance Workshop (2024), BSE Summer Forum (2024), XVI Labour Economics Meeting. 
 
-####### Prizes: [Luis Toharia Grant](https://www.aeet.eu/en/becas-luis-toharia/) for young researchers in Labour Economics
+###### Prizes: [Luis Toharia Grant](https://www.aeet.eu/en/becas-luis-toharia/) for young researchers in Labour Economics
 
 <details>
     <summary> Abstract </summary>
