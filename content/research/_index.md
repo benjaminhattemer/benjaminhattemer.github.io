@@ -46,7 +46,7 @@ I examine school absence as a potential impact channel. Results show that heat s
 
 **Rising costs, rising gains: Analysing the effects of escalating ETS prices and
 reduced free allowances in Phase IV** <br>
-with Jan Eric Hagend and Fotios Kalantzis <br>
+with Jan Eric Hagendorn and Fotios Kalantzis <br>
 [Draft coming soon]
 
 <details>
@@ -58,6 +58,12 @@ This paper investigates the impact of the EU Emissions Trading System (ETS) on t
 <br>
 
 **Bidding for the Environment: Allocation Independence in Cap-and-Trade Systems**
+
+
+<details>
+    <summary> Abstract </summary>
+This paper examines whether the effectiveness of Emissions Trading Systems (ETS), specifically the EU ETS, is influenced by the mechanism used to allocate emission allowances. Through a Difference-in-Difference (DiD) estimation, I analyze European manufacturing data, focusing on the shift from freely allocated to auction-based allowances as a policy shock. My results indicate that the property of independence of the allocation mechanism does not hold for the manufacturing sector. The transition significantly reduces emission intensity and challenges the neutrality of allocation mechanisms in ETS system.
+</details> 
 
 
 ## Policy Work
