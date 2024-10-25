@@ -35,6 +35,19 @@ This paper analyzes the impact of a recruitment policy aimed at improving the qu
 
 
 ## Work in Progress
+**Bidding for the Environment: Allocation Independence in Cap-and-Trade Systems**
+
+
+<details>
+    <summary> Abstract </summary>
+This paper examines whether the effectiveness of Emissions Trading Systems (ETS), specifically the EU ETS, is influenced by the mechanism used to allocate emission allowances. Through a Difference-in-Difference (DiD) estimation, I analyze European manufacturing data, focusing on the shift from freely allocated to auction-based allowances as a policy shock. My results indicate that the property of independence of the allocation mechanism does not hold for the manufacturing sector. The transition significantly reduces emission intensity and challenges the neutrality of allocation mechanisms in ETS system.
+</details> 
+
+
+
+<br>
+
+
 **Temperature and Learning in Chile**
 <details>
     <summary> Abstract </summary>
@@ -55,15 +68,6 @@ This paper investigates the impact of the EU Emissions Trading System (ETS) on t
 </details>
 
 
-<br>
-
-**Bidding for the Environment: Allocation Independence in Cap-and-Trade Systems**
-
-
-<details>
-    <summary> Abstract </summary>
-This paper examines whether the effectiveness of Emissions Trading Systems (ETS), specifically the EU ETS, is influenced by the mechanism used to allocate emission allowances. Through a Difference-in-Difference (DiD) estimation, I analyze European manufacturing data, focusing on the shift from freely allocated to auction-based allowances as a policy shock. My results indicate that the property of independence of the allocation mechanism does not hold for the manufacturing sector. The transition significantly reduces emission intensity and challenges the neutrality of allocation mechanisms in ETS system.
-</details> 
 
 
 ## Policy Work
