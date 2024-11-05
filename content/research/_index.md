@@ -34,6 +34,18 @@ This paper analyzes the impact of a recruitment policy aimed at improving the qu
 </details> 
 
 
+<br>
+
+**A positive trade-off: Emissions reduction and costs under Phase IV of the Emissions Trading System** <br>
+with Jan Eric Hagendorn and Fotios Kalantzis <br>
+[Draft](https://www.eib.org/en/publications/20240297-economics-working-paper-2024-05)
+
+<details>
+    <summary> Abstract </summary>
+This paper investigates the impact of the EU Emissions Trading System (ETS) on the manufacturing sector, a significant contributor to greenhouse gas emissions within the EU. The ETS, a market-based policy tool, imposes a cap on emissions while enabling firms to trade emission allowances. Allocation of free allowances varies across sectors based on their carbon leakage status, indicative of the risk of losing competitiveness and relocating production to regions with less stringent climate policies. Leveraging a natural experiment design that exploits this variability, we employ a panel regression analysis at the sectorial level spanning 2012 to 2022 to examine how ETS prices influence sectors’ carbon performance, production, prices, and investment while controlling for other confounding factors. By contrasting the effects of ETS prices between sectors transitioning from carbon leakage status to facing higher allowance costs in Phase IV and those retaining their status across Phases III and IV, we also determine potential disparities in ETS price impacts. Additionally, we shed light on the mechanism of investment through which the EU ETS induces firms to reduce their emissions by employing a mediation analysis. Our analysis reveals that elevated ETS prices foster carbon efficiency and emission reduction, with marginal effects on production and prices. Notably, this effect is more pronounced for sectors transitioning from free to auctioned allowances. We identify investments as a key channel, which mediates the effect of ETS prices on the carbon efficiency of firms. Thus, our findings suggest that a reduction in free allowances combined with escalating ETS prices, mediated by increased investments, can bolster the environmental performance of the EU manufacturing sector without significantly compromising its competitive position.
+</details>
+
+
 ## Work in Progress
 **Bidding for the Environment: Allocation Independence in Cap-and-Trade Systems**
 
@@ -55,17 +67,6 @@ This paper demonstrates that extreme temperatures negatively affect learning out
 I examine school absence as a potential impact channel. Results show that heat significantly increases school absence. Lower school attendance can, therefore, explain decreased learning outcomes due to heat, but not for the measured impact due to cold days.
 </details> 
 
-<br>
-
-**Rising costs, rising gains: Analysing the effects of escalating ETS prices and
-reduced free allowances in Phase IV** <br>
-with Jan Eric Hagendorn and Fotios Kalantzis <br>
-[Draft coming soon]
-
-<details>
-    <summary> Abstract </summary>
-This paper investigates the impact of the EU Emissions Trading System (ETS) on the manufacturing sector, a significant contributor to greenhouse gas emissions within the EU. The ETS, a market-based policy tool, imposes a cap on emissions while enabling firms to trade emission allowances. Allocation of free allowances varies across sectors based on their carbon leakage status, indicative of the risk of losing competitiveness and relocating production to regions with less stringent climate policies. Leveraging a natural experiment design that exploits this variability, we employ a panel regression analysis at the sectorial level spanning 2012 to 2022 to examine how ETS prices influence sectors’ carbon performance, production, prices, and investment while controlling for other confounding factors. By contrasting the effects of ETS prices between sectors transitioning from carbon leakage status to facing higher allowance costs in Phase IV and those retaining their status across Phases III and IV, we also determine potential disparities in ETS price impacts. Additionally, we shed light on the mechanism of investment through which the EU ETS induces firms to reduce their emissions by employing a mediation analysis. Our analysis reveals that elevated ETS prices foster carbon efficiency and emission reduction, with marginal effects on production and prices. Notably, this effect is more pronounced for sectors transitioning from free to auctioned allowances. We identify investments as a key channel, which mediates the effect of ETS prices on the carbon efficiency of firms. Thus, our findings suggest that a reduction in free allowances combined with escalating ETS prices, mediated by increased investments, can bolster the environmental performance of the EU manufacturing sector without significantly compromising its competitive position.
-</details>
 
 
 
