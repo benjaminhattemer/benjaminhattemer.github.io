@@ -19,6 +19,7 @@ with [Ismael Moreno-Martinez](https://ismaelmorenomartinez.eu/) <br>
     This study offers novel causal estimates of the effect of air pollution on workplace accidents. We focus on a near world-wide natural source of air pollution: dust precipitation. We use administrative data on the universe of work accidents reported in Spain. Our estimates imply that an average day of dust precipitation induces a 1.2 percent increase in work accidents. We find these effects are pervasive for workers of different occupations, income levels and demographic characteristics. We also provide evidence supporting temporary impairment of physical and cognitive performance as the main causal channel.
   </details> 
 
+<br>
 
 **Recruting Better Teachers? Evidence from a higher Education Reform in Chile** <br>
 with [Sofia Sierra Vasquez](https://sofiasierrav.com/) and [Adriano De Falco](https://www.adrianodefalco.com/home-page) <br> 
