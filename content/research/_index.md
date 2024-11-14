@@ -46,7 +46,7 @@ EIB Working Paper 2024/05
 
 ## Work in Progress
 **Bidding for the Environment: Allocation Independence in Cap-and-Trade Systems**
-
+with [Marie Alder](https://mariealder.github.io/) <br>
 
 
 
