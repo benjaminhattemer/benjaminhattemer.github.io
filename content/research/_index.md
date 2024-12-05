@@ -36,12 +36,6 @@ This paper analyzes the impact of a recruitment policy aimed at improving the qu
 </details> 
 
 
-<br>
-
-**A positive trade-off: Emissions reduction and costs under Phase IV of the Emissions Trading System** <br>
-with Jan Eric Hagendorn and Fotios Kalantzis <br>
-EIB Working Paper 2024/05
-
 
 
 ## Work in Progress
@@ -62,5 +56,11 @@ with [Marie Alder](https://mariealder.github.io/) <br>
 ## Policy Work
 
 **Investment Report 2023/2024: Transforming for Competitiveness, European Investment Bank, Chapter 5**
+
+<br>
+
+**A positive trade-off: Emissions reduction and costs under Phase IV of the Emissions Trading System** <br>
+with Jan Eric Hagendorn and Fotios Kalantzis <br>
+EIB Working Paper 2024/05
 
 ---
