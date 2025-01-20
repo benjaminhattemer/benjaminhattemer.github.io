@@ -85,8 +85,8 @@ params:
    #       url: https://github.com/pmichaillat
     #    - name: Substack
     #      url: https://pmichaillat.substack.com
-        - name: Twitter
-          url: https://twitter.com/BenjaminHa68520
+     #   - name: Twitter
+     #     url: https://twitter.com/BenjaminHa68520
 
     assets:
         disableHLJS: true
