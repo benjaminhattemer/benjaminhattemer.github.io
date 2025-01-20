@@ -16,7 +16,7 @@ with [Ismael Moreno-Martinez](https://ismaelmorenomartinez.eu/) <br>
 
   <details>
     <summary> Abstract </summary>
-    This study offers novel causal estimates of the effect of air pollution on workplace accidents. We focus on a near world-wide natural source of air pollution: dust precipitation. We use administrative data on the universe of work accidents reported in Spain. Our estimates imply that an average day of dust precipitation induces a 1.2 percent increase in work accidents. We find these effects are pervasive for workers of different occupations, income levels and demographic characteristics. We also provide evidence supporting temporary impairment of physical and cognitive performance as the main causal channel.
+    This study provides causal estimates of the effect of air pollution on workplace safety using data on the universe of work accidents reported in Spain (2010-2019). We focus on a near-worldwide natural source of air pollution: mineral dust precipitation. Our estimates reveal dust precipitation marginal effects and overall burden on workplace safety are of the same order of magnitude as those of high temperatures. Impacts are widespread, spanning most worker and accident characteristics, and consistent with dust inducing human error across diverse tasks and activities. However, we find null effects for workers at the top quintile of the wage distribution.
   </details> 
 
 <br>
@@ -42,14 +42,22 @@ This paper analyzes the impact of a recruitment policy aimed at improving the qu
 **Bidding for the Environment: Allocation Independence in Cap-and-Trade Systems**
 with [Marie Alder](https://mariealder.github.io/) <br>
 
-
+<details>
+    <summary> Abstract </summary>
+Cap-and-trade systems are a widely used carbon pricing instrument to reach emission reduction goals. Compared to a classical Pigou tax, they may have the advantage that a government can set the cap, leaving it to the legislator to allocate the respective permits without losing cost efficiency. However, this advantage is based on the independence property given by the Coase theorem. In our paper, we examine the allocation mechanism of allowances in the EU ETS and its impact on the effectiveness of emission reductions. Our empirical analysis is based on a standard difference-in-difference (DiD) setting, based on a policy change in the allocation of free allowances between Phase III and IV of the EU Emission Trading System (EU ETS). We show that the independence assumption does not hold for the manufacturing sector. Compared with sectors that receive most of their allowances for free, sectors that have to pay for their emissions reduce their emissions in response by up to 20%.
+ 
+</details> 
 
 <br>
 
 
 **Temperature and Learning in Chile**
 
-
+<details>
+    <summary> Abstract </summary>
+This paper examines the impact of extreme temperatures on learning outcomes, with a particular focus on students from low-income backgrounds. Using panel data from over 1.5 million Chilean students who took a standardized university entry exam, I demonstrate that hot but also cold days are especially detrimental to academic performance. Additionally, I analyze school attendance records for the entire population of Chilean pupils to explore potential mechanisms. The findings reveal that heat significantly increases school absences, suggesting that reduced attendance may partially explain the negative effect of heat on learning outcomes. However, the adverse impact of cold days appears to operate through channels other than attendance.
+ 
+</details> 
 
 
 
