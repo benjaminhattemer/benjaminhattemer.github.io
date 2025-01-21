@@ -8,9 +8,9 @@ description: "Publications, working papers and other work in progress"
 
 **Dust to Dust: Tracing Air Pollution’s Impact on Work Accidents** <br>
 with [Ismael Moreno-Martinez](https://ismaelmorenomartinez.eu/) <br> 
-[Draft](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4812658)
+[Draft](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4812658) <i>Submitted</i> 
 
-###### Presented (or will be presented) at: 24th EAERE Annual Conference, KU Leuven; 2nd Young AERNA Day, University of Girona; 10th Atlantic Workshop on Energy and Environmental Economics; Early Career Workshop on the Environment, Climate Change and Disasters, Gran Sasso Science Institute; 1st International Conference of the Georgian Economic Association; Microeconometrics Working Group, EUI; Norges Bank; Institute for Labour Law and Industrial Relations in the European Union
+###### Presented at: 39th AIEL Conference, 24th EAERE Annual Conference, 2nd Young AERNA Day, 10th Atlantic Workshop on Energy and Environmental Economics; Early Career Workshop on the Environment, Climate Change and Disasters, 1st International Conference of the Georgian Economic Association, Microeconometrics Working Group EUI, Norges Bank, Institute for Labour Law and Industrial Relations in the European Union
 
 ###### Coverage: [La Fonte](https://lafonte.eui.eu/2024/05/09/dust-to-dust-how-natural-air-pollution-induces-work-accidents/)
 
@@ -23,9 +23,9 @@ with [Ismael Moreno-Martinez](https://ismaelmorenomartinez.eu/) <br>
 
 **Recruting Better Teachers? Evidence from a higher Education Reform in Chile** <br>
 with [Sofia Sierra Vasquez](https://sofiasierrav.com/) and [Adriano De Falco](https://www.adrianodefalco.com/home-page) <br> 
-[Draft](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4874361)
+[Draft](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4874361) <i>Submitted</i>
 
-###### Presented: 8th LEER conference, 1st CESifo/ifo Junior Workshop on the Economics of Education, EALE 2023, SAEe 2023, AIEL - Padua Workshop on the Economics of Human Capital 2024, EAYE conference 2024, 6th QMUL Economics and Finance Workshop (2024), BSE Summer Forum (2024), XVI Labour Economics Meeting. 
+###### Presented: 8th LEER conference, 1st CESifo/ifo Junior Workshop on the Economics of Education, EALE 2023, SAEe 2023, AIEL - Padua Workshop on the Economics of Human Capital 2024, EAYE conference 2024, 6th QMUL Economics and Finance Workshop (2024), BSE Summer Forum (2024), XVI Labour Economics Meeting, 39th AIEL Conference. 
 
 ###### Prizes: [Luis Toharia Grant](https://www.aeet.eu/en/becas-luis-toharia/) for young researchers in Labour Economics
 ###### Coverage: [La Fonte](https://lafonte.eui.eu/2024/10/10/shaping-future-generations-analysing-teacher-recruitment-reform-in-chile/)
