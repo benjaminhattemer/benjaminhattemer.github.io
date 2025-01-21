@@ -57,7 +57,7 @@ params:
           imageTitle: Benjamin Hattemer
           buttons:
             - name: CV
-              url: CV.pdf
+              url: CV_V3.pdf
             - name: Research
               url: research/
  #           - name: Data
