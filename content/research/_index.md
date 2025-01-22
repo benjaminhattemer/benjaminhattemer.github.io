@@ -62,7 +62,7 @@ This paper examines the impact of extreme temperatures on learning outcomes, wit
 <br>
 
 
-**Bloom and Bust: The Impact of Pollen on Workplace Safety**
+**Bloom and Bust: The Impact of Pollen on Workplace Safety** <br>
 with [Ismael Moreno-Martinez](https://ismaelmorenomartinez.eu/) and [Martin Habets](https://martinhabets.github.io/) <br>
 
 ## Policy Work
