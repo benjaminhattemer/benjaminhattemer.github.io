@@ -21,11 +21,6 @@ concurrency:
   group: "pages"
   cancel-in-progress: false
 
-# Default to bash
-defaults:
-  run:
-    shell: bash
-
 jobs:
   # Build job
   build:
@@ -58,7 +53,7 @@ jobs:
             --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/"
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v1 # Update to latest version
+        uses: actions/upload-pages-artifact@v1
         with:
           path: ./public
 
