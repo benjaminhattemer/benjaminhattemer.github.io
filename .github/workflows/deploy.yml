@@ -10,21 +10,21 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # Checkout the repository
+      # Step 1: Checkout repository
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      # Install Hugo
+      # Step 2: Setup Hugo
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
           hugo-version: 'latest'
 
-      # Build the Hugo site
+      # Step 3: Build the Hugo site
       - name: Build Hugo site
         run: hugo --minify
 
-      # Upload the public folder as an artifact
+      # Step 4: Upload artifact (Updated to v4)
       - name: Upload artifact
         uses: actions/upload-artifact@v4
         with:
@@ -37,17 +37,17 @@ jobs:
     needs: build
 
     steps:
-      # Checkout the repository
+      # Step 1: Checkout repository
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      # Download the artifact
+      # Step 2: Download artifact
       - name: Download artifact
         uses: actions/download-artifact@v2
         with:
           name: hugo-site
 
-      # Deploy to GitHub Pages
+      # Step 3: Deploy to GitHub Pages
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
