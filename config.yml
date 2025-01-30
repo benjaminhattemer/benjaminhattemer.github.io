@@ -50,7 +50,7 @@ params:
     profileMode:
           enabled: true
           title: "Benjamin Hattemer"
-          subtitle: "I am a Ph.D. student in Economics at the European University Institute and doing applied economic research. My main line of research focuses on how physical environmental risk factors, mostly due to Climate Change, affect labor markets. Recently, I have been working on climate policy issues, particularly related to carbon pricing in cap-and-trade systems. My supervisors are [<u>Thomas Crossley</u>](https://sites.google.com/site/tfcrossley/) and [<u>Alexander Monge-Naranjo.</u>](https://alexandermonge.com/)." 
+          subtitle: "I am Benjamin Hattemer, a PhD candidate in economics from the European University Institute. I do applied research in environmental and labour economics. My supervisors are [<u>Thomas Crossley</u>](https://sites.google.com/site/tfcrossley/) and [<u>Alexander Monge-Naranjo.</u>](https://alexandermonge.com/) <br><br> My main line of research has been related to the physical risk of environmental phenomena on labor market outcomes. Recently, I started working on climate and energy policy issues." 
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
