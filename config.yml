@@ -6,98 +6,29 @@ theme: PaperMod
 enableInlineShortcodes: true
 enableRobotsTXT: true
 
-taxonomies:
-    tag: tags
-
-menu:
-    main:
-        - name: Research
-          url: research/
-          weight: 1
-#        - name: Courses
-#          url: courses/
-#          weight: 2
-#        - name: Data
-#          url: data/
-#          weight: 3 
-#        - name: Newsletter
-#          url: https://pmichaillat.substack.com
-#          weight: 4
-
 params:
     description: "I am Benjamin, welcome to my website."
     author: Benjamin Hattemer
-    # googleAnalyticsID: "G-XXXXX"
-    DateFormat: "January 2006"
     defaultTheme: light
     hideFooter: false
     disableThemeToggle: true
     ShowShareButtons: false
     ShowReadingTime: false
-    disableSpecial1stPost: true
-    disableAnchoredHeadings: true
-    ShowPostNavLinks: false
-    ShowBreadCrumbs: false
-    ShowCodeCopyButtons: true
-    ShowRssButtonInSectionTermList: false
     ShowToc: false
     disableScrollToTop: true
-    TocOpen: true
-    ShowWordCount: false
-    UseHugoToc: true
-    comments: false
     math: true
     profileMode:
           enabled: true
           title: "Benjamin Hattemer"
-          subtitle: "I am Benjamin Hattemer, a PhD candidate in economics from the European University Institute. I do applied research in environmental and labour economics. My supervisors are [<u>Thomas Crossley</u>](https://sites.google.com/site/tfcrossley/) and [<u>Alexander Monge-Naranjo.</u>](https://alexandermonge.com/) <br><br> My main line of research has been related to the physical risk of environmental phenomena on labor market outcomes. Recently, I started working on climate and energy policy issues." 
+          subtitle: "I am Benjamin Hattemer, a PhD candidate in economics from the European University Institute. I do applied research in environmental and labour economics. My supervisors are [<u>Thomas Crossley</u>](https://sites.google.com/site/tfcrossley/) and [<u>Alexander Monge-Naranjo.</u>](https://alexandermonge.com/). <br><br> My main line of research has been related to the physical risk of environmental phenomena on labor market outcomes. Recently, I started working on climate and energy policy issues."
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
-          imageTitle: Benjamin Hattemer
           buttons:
             - name: CV
               url: CV_V3.pdf
             - name: Research
               url: research/
- #           - name: Data
- #             url: data/
- #           - name: Newsletter
- #             url: https://pmichaillat.substack.com
-  #          - name: Tags
-  #            url: tags/
-  #          - name: Archive
-  #            url: archive/
-    socialIcons:
-  #      - name: CV
-   #       url: cv.pdf
-        - name: Email
-          url: mailto:benjamin.hattemer@eui.eu
-        - name: Location
-          url: https://maps.app.goo.gl/StzFuEpafnLvjaCF7
-    #    - name: Office Hours
-    #      url: officehours/
-    #    - name: Google Scholar
-    #      url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
-   #     - name: YouTube
-   #       url: https://www.youtube.com/@pmichaillat
-   #     - name: GitHub
-   #       url: https://github.com/pmichaillat
-    #    - name: Substack
-    #      url: https://pmichaillat.substack.com
-     #   - name: Twitter
-     #     url: https://twitter.com/BenjaminHa68520
-
-    assets:
-        disableHLJS: true
-        disableScrollBarStyle: true
-    cover:
-        hiddenInList: false
-        hiddenInSingle: true
-    label:
-      text: "Benjamin Hattemer"
-      icon: favicon.ico
-      iconHeight: 18
 
 markup:
     goldmark:
@@ -105,7 +36,7 @@ markup:
             unsafe: true
     highlight:
         guessSyntax: true
-        style: autumn 
+        style: autumn
     tableOfContents:
         endLevel: 2
         ordered: false
