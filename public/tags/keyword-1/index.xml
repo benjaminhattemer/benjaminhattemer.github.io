@@ -1,21 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Keyword 1 on Prof. Name</title>
+    <title>Keyword 1 on Benjamin Hattemer</title>
     <link>https://pascalmichaillat.org/hugo-website/tags/keyword-1/</link>
-    <description>Recent content in Keyword 1 on Prof. Name</description>
+    <description>Recent content in Keyword 1 on Benjamin Hattemer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 10 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://pascalmichaillat.org/hugo-website/tags/keyword-1/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Course Title 1</title>
-      <link>https://pascalmichaillat.org/hugo-website/courses/course1/</link>
-      <pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://pascalmichaillat.org/hugo-website/courses/course1/</guid>
-      <description>This graduate course presents things.</description>
-    </item>
-    
+    <lastBuildDate>Tue, 01 Dec 2015 00:00:00 +0000</lastBuildDate><atom:link href="https://pascalmichaillat.org/hugo-website/tags/keyword-1/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Paper Title 2</title>
       <link>https://pascalmichaillat.org/hugo-website/papers/paper2/</link>
