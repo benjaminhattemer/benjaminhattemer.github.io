@@ -39,12 +39,14 @@ This paper analyzes the impact of a recruitment policy aimed at improving the qu
 
 
 ## Work in Progress
-**Bidding for the Environment: Allocation Independence in Cap-and-Trade Systems**
-with [Marie Alder](https://mariealder.github.io/) <br>
+**From Free to Fee: How Allowance Allocation Affects ETS Performance**
+with [Marie Alder](https://mariealder.github.io/) and Eva Franzmeyer <br>
+
+###### Presented at: 13th IAERE Annual Conference
 
 <details>
     <summary> Abstract </summary>
-Cap-and-trade systems are a widely used carbon pricing instrument to reach emission reduction goals. Compared to a classical Pigou tax, they may have the advantage that a government can set the cap, leaving it to the legislator to allocate the respective permits without losing cost efficiency. However, this advantage is based on the independence property given by the Coase theorem. In our paper, we examine the allocation mechanism of allowances in the EU ETS and its impact on the effectiveness of emission reductions. Our empirical analysis is based on a standard difference-in-difference (DiD) setting, based on a policy change in the allocation of free allowances between Phase III and IV of the EU Emission Trading System (EU ETS). We show that the independence assumption does not hold for the manufacturing sector. Compared with sectors that receive most of their allowances for free, sectors that have to pay for their emissions reduce their emissions in response by up to 20%.
+The mitigation of climate change is a major challenge of the 21st century. Emission trading systems (ETS) are a widely used carbon pricing instrument to reach emission reduction goals. Regulated emissions under ETS have sharply increased in recent years, but emission rights have been mostly given out for free to firms to ensure international competitiveness. Recently, selling allowances to firms directly became the default option in large ETS. This paper examines the effect of selling emission allowances to firms instead of giving them out for free. We quantify the effect of the allocation mechanism of allowances in the EU ETS and its impact on the effectiveness of emission reductions and economic performance. Our empirical analysis utilizes a standard difference-in-difference (DiD) strategy based on a quasi-experimental due to a reform in the EU ETS. We show that emissions decrease significantly. However, the reduction is driven by changes in economic output and emission intensity remains unaffected. 
  
 </details> 
 
