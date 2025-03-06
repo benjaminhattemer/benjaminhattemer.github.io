@@ -39,7 +39,7 @@ This paper analyzes the impact of a recruitment policy aimed at improving the qu
 
 
 ## Work in Progress
-**From Free to Fee: How Allowance Allocation Affects ETS Performance**
+**From Free to Fee: How Allowance Allocation Affects ETS Performance** <br>
 with [Marie Alder](https://mariealder.github.io/) and Eva Franzmeyer <br>
 
 ###### Presented at: 13th IAERE Annual Conference
