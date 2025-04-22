@@ -26,7 +26,7 @@ params:
           imageHeight: 160
           buttons:
             - name: CV
-              url: CV_V3.pdf
+              url: CV_V4.pdf
             - name: Research
               url: research/
 
