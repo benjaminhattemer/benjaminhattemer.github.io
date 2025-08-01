@@ -7,7 +7,7 @@ description: "Publications, working papers and other work in progress"
 
 **Dust to Dust: Tracing Air Pollution’s Impact on Work Accidents** <br>
 with [Ismael Moreno-Martinez](https://ismaelmorenomartinez.eu/) <br> 
-[Draft](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4812658) <br> <i>Conditionally Accepted: Journal of the Association of Environmental and Resource Economists</i> 
+[Draft](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4812658) <br> <i>Forthcoming: Journal of the Association of Environmental and Resource Economists</i> 
 
 ###### Presented at: 39th AIEL Conference, 24th EAERE Annual Conference, 2nd Young AERNA Day, 10th Atlantic Workshop on Energy and Environmental Economics; Early Career Workshop on the Environment, Climate Change and Disasters, 1st International Conference of the Georgian Economic Association, Microeconometrics Working Group EUI, Norges Bank, Institute for Labour Law and Industrial Relations in the European Union
 
@@ -19,11 +19,8 @@ with [Ismael Moreno-Martinez](https://ismaelmorenomartinez.eu/) <br>
   </details> 
 
 
+
 ## Working Papers
-
-
-
-<br>
 
 **Recruting Better Teachers? Evidence from a higher Education Reform in Chile** <br>
 with [Sofia Sierra Vasquez](https://sofiasierrav.com/) and [Adriano De Falco](https://www.adrianodefalco.com/home-page) <br> 
