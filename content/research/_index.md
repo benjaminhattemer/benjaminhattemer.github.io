@@ -3,8 +3,7 @@ title: "Research"
 description: "Publications, working papers and other work in progress"
 ---
 
-
-## Working Papers
+## Publications
 
 **Dust to Dust: Tracing Air Pollution’s Impact on Work Accidents** <br>
 with [Ismael Moreno-Martinez](https://ismaelmorenomartinez.eu/) <br> 
@@ -18,6 +17,11 @@ with [Ismael Moreno-Martinez](https://ismaelmorenomartinez.eu/) <br>
     <summary> Abstract </summary>
     This study provides causal estimates of the effect of air pollution on workplace safety using data on the universe of work accidents reported in Spain (2010-2019). We focus on a near-worldwide natural source of air pollution: mineral dust precipitation. Our estimates reveal dust precipitation marginal effects and overall burden on workplace safety are of the same order of magnitude as those of high temperatures. Impacts are widespread, spanning most worker and accident characteristics, and consistent with dust inducing human error across diverse tasks and activities. However, we find null effects for workers at the top quintile of the wage distribution.
   </details> 
+
+
+## Working Papers
+
+
 
 <br>
 
