@@ -1,6 +1,6 @@
 ---
 title: "Research"
-description: "Publications, working papers and other work in progress"
+description: "Publications, working papers, and work in progress"
 ---
 
 ## Publications
@@ -22,7 +22,7 @@ with [Ismael Moreno-Martinez](https://ismaelmorenomartinez.eu/) <br>
 
 ## Working Papers
 
-**Recruting Better Teachers? Evidence from a higher Education Reform in Chile** <br>
+**Recruiting Better Teachers? Evidence from a higher Education Reform in Chile** <br>
 with [Sofia Sierra Vasquez](https://sofiasierrav.com/) and [Adriano De Falco](https://www.adrianodefalco.com/home-page) <br> 
 [Draft](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4874361) <br> <i>Submitted</i>
 
@@ -37,29 +37,28 @@ This paper analyzes the impact of a recruitment policy aimed at improving the qu
 </details> 
 
 
-
-
-## Work in Progress
 **From Free to Fee: How Allowance Allocation Affects ETS Performance** <br>
-with [Marie Alder](https://mariealder.github.io/) and Eva Franzmeyer <br>
+with [Marie Alder](https://mariealder.github.io/) and [Eva Franzmeyer](https://franzeva.github.io/) <br>
 
-###### Presented at: 13th IAERE Annual Conference, Departmental Seminar Utrecht University
+###### Presented at: 13th IAERE Annual Conference, Departmental Seminar Utrecht University, XXXVII SIEP Conference 2025
 
 <details>
     <summary> Abstract </summary>
-The mitigation of climate change is a major challenge of the 21st century. Emission trading systems (ETS) are a widely used carbon pricing instrument to reach emission reduction goals. Regulated emissions under ETS have sharply increased in recent years, but emission rights have been mostly given out for free to firms to ensure international competitiveness. Recently, selling allowances to firms directly became the default option in large ETS. This paper examines the effect of selling emission allowances to firms instead of giving them out for free. We quantify the effect of the allocation mechanism of allowances in the EU ETS and its impact on the effectiveness of emission reductions and economic performance. Our empirical analysis utilizes a difference-in-difference (DiD) strategy based on a reform in the EU ETS. We show that emissions decrease significantly. However, the reduction is driven by changes in economic output and emission intensity remains unaffected. 
- 
+This study provides causal firm-level estimates of the effect of a reduction in free emission allowances in emission trading systems on emissions and economic performance. We study an EU ETS reform that withdrew the right of some manufacturing firms to receive most emission allowances for free, exploiting this change in a difference-in-differences setting. We find that paying for allowances decreased emissions by more than 11 percent overall, relative to firms that retained free allowances. This reduction was accompanied by a significant decrease in economic performance, including revenue, employment, and assets of a similar magnitude. Using a multi-product model, we show that our results can be rationalized through an extensive margin adjustment of firms. 
 </details> 
 
 <br>
 
 
+
+
+
+## Work in Progress
 **Temperature and Learning in Chile**
 
 <details>
     <summary> Abstract </summary>
-This paper examines the impact of extreme temperatures on learning outcomes, with a particular focus on students from low-income backgrounds. Using panel data from over 1.5 million Chilean students who took a standardized university entry exam, I demonstrate that hot but also cold days are especially detrimental to academic performance. Additionally, I analyze school attendance records for the entire population of Chilean pupils to explore potential mechanisms. The findings reveal that heat significantly increases school absences, suggesting that reduced attendance may partially explain the negative effect of heat on learning outcomes. However, the adverse impact of cold days appears to operate through channels other than attendance.
- 
+This paper examines the impact of extreme temperatures on learning outcomes, with a particular focus on students from low-income backgrounds. Using panel data from over 1.5 million Chilean students who took a standardized university entry exam, I demonstrate that hot but also cold days are especially detrimental to academic performance. Additionally, I analyze school attendance records for the entire population of Chilean pupils to explore potential mechanisms. The findings reveal that heat significantly increases school absences, suggesting that reduced attendance may partially explain the negative effect of heat on learning outcomes. However, the adverse impact of cold days appears to operate through channels other than attendance. 
 </details> 
 
 <br>
