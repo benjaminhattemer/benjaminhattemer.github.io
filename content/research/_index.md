@@ -40,7 +40,7 @@ This paper analyzes the impact of a recruitment policy aimed at improving the qu
 **From Free to Fee: How Allowance Allocation Affects ETS Performance** <br>
 with [Marie Alder](https://mariealder.github.io/) and [Eva Franzmeyer](https://franzeva.github.io/) <br>
 
-###### Presented at: 13th IAERE Annual Conference, Departmental Seminar Utrecht University, XXXVII SIEP Conference 2025
+###### Presented at: 13th IAERE Annual Conference, Departmental Seminar Utrecht University, International Conference on the Ex-post Evaluation of Emissions Trading, XXXVII SIEP Conference 2025
 
 <details>
     <summary> Abstract </summary>
