@@ -1,6 +1,6 @@
 ---
 title: "Research"
-description: "Publications, working papers, and work in progress"
+description: "Publications, working papers, and work in progress."
 ---
 
 ## Publications
@@ -9,7 +9,7 @@ description: "Publications, working papers, and work in progress"
 with [Ismael Moreno-Martinez](https://ismaelmorenomartinez.eu/) <br> 
 [Draft](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4812658) <br> <i>Forthcoming: Journal of the Association of Environmental and Resource Economists</i> 
 
-###### Presented at: 39th AIEL Conference, 24th EAERE Annual Conference, 2nd Young AERNA Day, 10th Atlantic Workshop on Energy and Environmental Economics; Early Career Workshop on the Environment, Climate Change and Disasters, 1st International Conference of the Georgian Economic Association, Microeconometrics Working Group EUI, Norges Bank, Institute for Labour Law and Industrial Relations in the European Union
+###### Presented at: SAEe 2025, 39th AIEL Conference, 24th EAERE Annual Conference, 2nd Young AERNA Day, 10th Atlantic Workshop on Energy and Environmental Economics; Early Career Workshop on the Environment, Climate Change and Disasters, 1st International Conference of the Georgian Economic Association, Microeconometrics Working Group EUI, Norges Bank, Institute for Labour Law and Industrial Relations in the European Union
 
 ###### Coverage: [La Fonte](https://lafonte.eui.eu/2024/05/09/dust-to-dust-how-natural-air-pollution-induces-work-accidents/)
 
@@ -42,7 +42,7 @@ This paper analyzes the impact of a recruitment policy aimed at improving the qu
 with [Marie Alder](https://mariealder.github.io/) and [Eva Franzmeyer](https://franzeva.github.io/) <br>
 [Draft](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5521119) <br>
 
-###### Presented at: 13th IAERE Annual Conference, Departmental Seminar Utrecht University, International Conference on the Ex-post Evaluation of Emissions Trading, XXXVII SIEP Conference 2025
+###### Presented at: SAEe 2025, 13th IAERE Annual Conference, Departmental Seminar Utrecht University, International Conference on the Ex-post Evaluation of Emissions Trading, XXXVII SIEP Conference 2025
 
 <details>
     <summary> Abstract </summary>
@@ -66,8 +66,8 @@ This paper examines the impact of extreme temperatures on learning outcomes, wit
 <br>
 
 
-**Bloom and Bust: The Impact of Pollen on Workplace Safety** <br>
-with [Ismael Moreno-Martinez](https://ismaelmorenomartinez.eu/) and [Martin Habets](https://martinhabets.github.io/) <br>
+**Dust Pollution, Mortality and Healthcare Infrastructure** <br>
+with [Ismael Moreno-Martinez](https://ismaelmorenomartinez.eu/) <br>
 
 ## Policy Work
 
