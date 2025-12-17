@@ -53,21 +53,16 @@ This study provides causal firm-level estimates of the effect of a reduction in 
 
 
 
-
-
 ## Work in Progress
-**Temperature and Learning in Chile**
-
-<details>
-    <summary> Abstract </summary>
-This paper examines the impact of extreme temperatures on learning outcomes, with a particular focus on students from low-income backgrounds. Using panel data from over 1.5 million Chilean students who took a standardized university entry exam, I demonstrate that hot but also cold days are especially detrimental to academic performance. Additionally, I analyze school attendance records for the entire population of Chilean pupils to explore potential mechanisms. The findings reveal that heat significantly increases school absences, suggesting that reduced attendance may partially explain the negative effect of heat on learning outcomes. However, the adverse impact of cold days appears to operate through channels other than attendance. 
-</details> 
-
-<br>
-
 
 **Dust Pollution, Mortality and Healthcare Infrastructure** <br>
 with [Ismael Moreno-Martinez](https://ismaelmorenomartinez.eu/) <br>
+
+
+**Temperature and Learning in Chile**
+
+<br>
+
 
 ## Policy Work
 
