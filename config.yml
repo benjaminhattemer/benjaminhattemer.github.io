@@ -20,7 +20,7 @@ params:
     profileMode:
           enabled: true
           title: "Benjamin Hattemer"
-          subtitle: "I am a postdoctoral researcher in Economics at the University of Helsinki. In December 2025, I received my PhD from the European University Institute, under the supervision of [<u>Thomas Crossley</u>](https://sites.google.com/site/tfcrossley/) and [<u>Alexander Monge-Naranjo.</u>](https://alexandermonge.com/).<br><br> My research focuses on applied environmental and labor economics. I study climate policy, with a particular focus on carbon pricing in cap-and-trade systems and on how physical risks associated with climate change shape labor market outcomes." 
+          subtitle: "I am a postdoctoral researcher in Economics at the Finnish Centre of Excellence in Tax Systems Research at the University of Helsinki. In December 2025, I received my PhD from the European University Institute, under the supervision of [<u>Thomas Crossley</u>](https://sites.google.com/site/tfcrossley/) and [<u>Alexander Monge-Naranjo.</u>](https://alexandermonge.com/).<br><br> My research focuses on applied environmental and labor economics. I study climate policy, with a particular focus on carbon pricing in cap-and-trade systems and on how physical risks associated with climate change shape labor market outcomes." 
           imageUrl: "picture_hat.jpg"
           imageWidth: 160
           imageHeight: 160
