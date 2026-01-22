@@ -38,15 +38,15 @@ This paper analyzes the impact of a recruitment policy aimed at improving the qu
 
 <br>
 
-**From Free to Fee: How Allowance Allocation Affects ETS Performance** <br>
+**From Free to Fee: How Emission Permit Allocation Affects Firms** <br>
 with [Marie Alder](https://mariealder.github.io/) and [Eva Franzmeyer](https://franzeva.github.io/) <br>
 [Draft](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5521119) <br>
 
-###### Presented at: SAEe 2025, AFSE 2025, FIT Internal Seminar 2025, XXXVII SIEP Conference 2025, 13th IAERE Annual Conference, Departmental Seminar Utrecht University, International Conference on the Ex-post Evaluation of Emissions Trading 
+###### Presented at: SAEe 2025, Onzième Conférence Évaluation des Politiques Publique 2025, FIT Internal Seminar 2025, XXXVII SIEP Conference 2025, 13th IAERE Annual Conference, Departmental Seminar Utrecht University, International Conference on the Ex-post Evaluation of Emissions Trading 
 
 <details>
     <summary> Abstract </summary>
-This study provides causal firm-level estimates of the effect of a reduction in free emission allowances in emission trading systems on emissions and economic performance. We study an EU ETS reform that withdrew the right of some manufacturing firms to receive most emission allowances for free, exploiting this change in a difference-in-differences setting. We find that paying for allowances decreased emissions by more than 11 percent overall, relative to firms that retained free allowances. This reduction was accompanied by a significant decrease in economic performance, including revenue, employment, and assets of a similar magnitude. Using a multi-product model, we show that our results can be rationalized through an extensive margin adjustment of firms. 
+This study provides new causal evidence on the firm-level effects of reducing free emission permits in emission trading systems. Using a difference-in-differences design, we exploit a reform that altered an eligibility threshold for free permit allocation. Receiving fewer free permits reduced emissions by more than 14 percent relative to firms that retained them. This reduction was accompanied by similar declines in revenue, employment, and assets. We develop a multi-product general equilibrium model that explains these patterns through a novel mechanism linking permit allocation to firms’ decisions. Firms that receive fewer free emission permits terminate their least productive product lines, increasing the market share of the remaining ones. Higher expected profits then encourage earlier adoption of an efficiency-improving technology. 
 </details> 
 
 <br>
