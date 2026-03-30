@@ -7,7 +7,7 @@ description: "Publications, working papers, and work in progress."
 
 **Dust to Dust: Tracing Air Pollution’s Impact on Work Accidents** <br>
 with [Ismael Moreno-Martinez](https://ismaelmorenomartinez.eu/) <br> 
-[Draft](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4812658) <br> <i>Forthcoming: Journal of the Association of Environmental and Resource Economists</i> 
+[Draft](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4812658) <br> <i>Journal of the Association of Environmental and Resource Economists</i> 
 
 ###### Presented at: SAEe 2025, 39th AIEL Conference, 24th EAERE Annual Conference, 2nd Young AERNA Day, 10th Atlantic Workshop on Energy and Environmental Economics; Early Career Workshop on the Environment, Climate Change and Disasters, 1st International Conference of the Georgian Economic Association, Microeconometrics Working Group EUI, Norges Bank, Institute for Labour Law and Industrial Relations in the European Union
 
@@ -42,7 +42,7 @@ This paper analyzes the impact of a recruitment policy aimed at improving the qu
 with [Marie Alder](https://mariealder.github.io/) and [Eva Franzmeyer](https://franzeva.github.io/) <br>
 [Draft](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5521119) <br> <i>Submitted</i>
 
-###### Presented at: SAEe 2025, Onzième Conférence Évaluation des Politiques Publique 2025, FIT Internal Seminar 2025, XXXVII SIEP Conference 2025, 13th IAERE Annual Conference, Departmental Seminar Utrecht University, International Conference on the Ex-post Evaluation of Emissions Trading 
+###### Presented at: Departmental Seminar University of Helsinki, IAERE 2026, Finnish Economic Association meeting 2026, SAEe 2025, Onzième Conférence Évaluation des Politiques Publique 2025, FIT Internal Seminar 2025, XXXVII SIEP Conference 2025, IAERE 2025, Departmental Seminar Utrecht University, International Conference on the Ex-post Evaluation of Emissions Trading 
 
 <details>
     <summary> Abstract </summary>
