@@ -59,8 +59,8 @@ This study provides new causal evidence on the firm-level effects of reducing fr
 with [Ismael Moreno-Martinez](https://ismaelmorenomartinez.eu/) <br>
 
 
-**Temperature and Learning in Chile**
-
+**Temperature and Learning in Chile** <br>
+with [Sofia Sierra Vasquez](https://sofiasierrav.com/)
 <br>
 
 
