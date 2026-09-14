@@ -6,3 +6,7 @@ cv/*.log
 cv/*.out
 cv/*.pdf
 cv/build.log
+
+# Hugo output: rebuilt by GitHub Actions on every push, never committed
+public/
+resources/_gen/
