@@ -1,0 +1,233 @@
+
+\documentclass[10pt]{article}
+
+\usepackage[a4paper,left=1.9cm,right=1.9cm,top=1.7cm,bottom=1.7cm]{geometry}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{lmodern}
+\usepackage{microtype}
+\usepackage{tabularx}
+\usepackage{array}
+\usepackage{xcolor}
+\usepackage{hyperref}
+\usepackage{ragged2e}
+
+\hypersetup{
+    colorlinks=true,
+    urlcolor=blue,
+    linkcolor=black
+}
+
+\pagestyle{empty}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0pt}
+\setlength{\tabcolsep}{0pt}
+\renewcommand{\arraystretch}{1.0}
+\urlstyle{same}
+
+\newcommand{\cvsection}[1]{%
+    \vspace{0.95em}
+    {\large\bfseries #1}\par
+    \vspace{0.10em}
+    \hrule
+    \vspace{0.55em}
+}
+
+\newcommand{\datedentry}[3]{%
+    \begin{tabularx}{\textwidth}{@{}X>{\raggedleft\arraybackslash}p{3.1cm}@{}}
+        #1 & #2
+    \end{tabularx}
+    #3
+}
+
+\newcommand{\paper}[3]{%
+    \textbf{\href{#2}{#1}}\par
+    #3
+}
+
+\begin{document}
+
+% Header
+\begin{minipage}[t]{0.60\textwidth}
+    {\LARGE\bfseries Benjamin Hattemer}\\[3pt]
+    University of Helsinki\\
+    Finnish Centre of Excellence in Tax Systems Research\\
+    Helsinki, Finland
+\end{minipage}
+\hfill
+\begin{minipage}[t]{0.37\textwidth}
+    \raggedleft
+    \href{mailto:benjamin.hattemer@helsinki.fi}{benjamin.hattemer@helsinki.fi}\\
+    \href{https://benjaminhattemer.com}{benjaminhattemer.com}\\
+    (+39) 351 687 1276
+\end{minipage}
+
+\cvsection{Academic Positions}
+
+\datedentry{\textbf{Postdoctoral Researcher}, University of Helsinki}{2026--Present}
+
+\cvsection{Education}
+
+\datedentry{\textbf{PhD in Economics}, European University Institute}{2021--2025}{%
+
+\vspace{0.25em}
+
+    Thesis: \textit{Essays on Environmental and Labour Economics: Physical Risks and Policies}\\
+    Supervisors: Thomas F. Crossley, Alexander Monge-Naranjo\\
+    %Examiners: Ulrich Wagner, Jonathan Colmer\\
+    %Vilfredo Pareto Prize, Honorary Mention
+}
+
+\vspace{0.35em}
+\datedentry{\textbf{MRes in Economics}, European University Institute}{2020--2021}{}
+
+\vspace{0.15em}
+\datedentry{\textbf{MSc in Economics}, University of Amsterdam}{2018--2019}{}
+
+\vspace{0.15em}
+\datedentry{\textbf{BSc in Economics}, University of Trier}{2014--2018}
+
+\cvsection{Research Fields}
+
+Applied Economics, Environmental Economics, Climate Policy, Labour Economics
+
+\cvsection{Publications}
+
+\paper
+{Dust to Dust: Tracing Air Pollution's Impact on Work Accidents}
+{https://www.journals.uchicago.edu/doi/abs/10.1086/739151}
+{with \textit{Ismael Moreno Martinez}\\
+\textit{Journal of the Association of Environmental and Resource Economists}}
+
+\cvsection{Working Papers}
+
+\paper
+{Recruiting Better Teachers? Evidence from a Higher Education Reform in Chile}
+{https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4874361}
+{with \textit{Sofía Sierra Vásquez} and \textit{Adriano De Falco}\\
+\textit{Submitted}}
+
+\vspace{0.65em}
+\paper
+{From Free to Fee: How Emission Permit Allocation Affects Firms}
+{https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5521119}
+{with \textit{Marie Alder} and \textit{Eva Franzmeyer}\\
+\textit{Submitted}}
+
+\cvsection{Work in Progress}
+
+\textbf{Dust Pollution, Mortality and Healthcare Infrastructure}\\
+with \textit{Ismael Moreno Martinez}
+
+\vspace{0.65em}
+\textbf{Temperature and Learning in Chile}\\
+with \textit{Sofía Sierra Vásquez}
+
+\cvsection{Policy Work}
+
+\textbf{A positive trade-off: Emissions reduction and costs under Phase IV of the Emissions Trading System}\\
+with \textit{Jan Eric Hagendorn} and \textit{Fotios Kalantzis}\\
+\textit{EIB Working Paper 2024/05}
+
+\vspace{0.65em}
+\textbf{Investment Report 2023/2024: Transforming for Competitiveness}\\
+European Investment Bank, Chapter 5: \textit{Investing in Green Transformation}
+
+
+
+\cvsection{Teaching Experience}
+
+\textbf{University of Amsterdam School of Economics}\\
+Pre-master module in mathematics, Teaching Assistant \hfill 2019
+
+\vspace{0.65em}
+\textbf{University of Trier}\\
+Teaching and Student Assistant \hfill 2016--2018
+
+\newpage
+
+\cvsection{Professional Experience}
+
+\datedentry{\textbf{Research Internship}, European Investment Bank (EIB)}{Mar--Aug 2023}{%
+    Economics Department, Luxembourg City, Luxembourg
+}
+
+\vspace{0.55em}
+\datedentry{\textbf{Internship}, Kiel Institute for the World Economy}{Apr--Jun 2018}{%
+    Supervisor: Julian Hinz
+}
+
+\vspace{0.55em}
+\datedentry{\textbf{Student Assistant}, IAAEU}{Nov 2016--Dec 2017}{%
+    Supervisor: Adrian Chadi
+}
+
+\vspace{0.55em}
+\datedentry{\textbf{Teaching and Student Assistant}, University of Trier}{2016--2018}{%
+    Supervisor: Georg Müller-Fürstenberger
+}
+
+\cvsection{Professional Activities}
+
+\textbf{Presentations}
+
+\vspace{0.20em}
+\textbf{2026}\\ 7th World Congress of Environmental and Resource Economists (WCERE), Toronto Meeting on the Economics of Climate Change (TMEC), Nordic Annual Environmental and Resource Economics Workshop (NAERE), 14th Italian Association of Environmental and Resource Economists Annual Conference (IAERE), Annual Meeting of the Finnish Economic Association
+
+\vspace{0.30em}
+\textbf{2025} \\ 50th Simposio de la Asociación Española de Economía (SAEe), FIT Internal Yearly Meeting, XXXVII Società Italiana di Economia Pubblica (SIEP), International Conference on Ex-Post Evaluation of Emissions Trading, Departmental Seminar at Utrecht University School of Economics, 13th Italian Association of Environmental and Resource Economists Annual Conference (IAERE)
+
+\vspace{0.30em}
+\textbf{2024}\\ 39th Italian Association of Labour Economics (AIEL), Irish Public Economics Workshop, 1st International Conference of the Georgian Economic Association, 6th Queen Mary University of London Economics and Finance Workshop (QMUL)
+
+\vspace{0.30em}
+\textbf{2023}\\ 48th Simposio de la Asociación Española de Economía (SAEe), Ökonomisches Kolloquium IAAEU
+
+% \vspace{0.50em}
+
+% \textbf{Referee}
+
+% \vspace{0.20em}
+% Journal of the Association of Environmental and Resource Economists
+
+\cvsection{Awards \& Scholarships}
+
+\datedentry{Vilfredo Pareto Prize, Honorary Mention, European University Institute}{2026}{}
+\datedentry{Doctoral Scholarship, German Academic Exchange Service (DAAD)}{2020--2024}{}
+\datedentry{Winner of the \textit{UvA Thesis Prize} in Economics and Business}{2019}
+
+\cvsection{Languages}
+
+German (native), English (fluent)
+
+\cvsection{Software}
+
+R, \LaTeX, Matlab, Stata
+
+\cvsection{References}
+
+\begin{minipage}[t]{0.32\textwidth}
+\textbf{Thomas F. Crossley}\\
+University of Michigan\\
+Institute for Social Research\\
+\href{mailto:tcross@umich.edu}{tcross@umich.edu}\\
+{[+1] 734 647 8505}
+\end{minipage}
+\hfill
+\begin{minipage}[t]{0.32\textwidth}
+\textbf{Alexander Monge-Naranjo}\\
+European University Institute\\
+Department of Economics\\
+\href{mailto:alexander.monge-naranjo@eui.eu}{alexander.monge-naranjo@eui.eu}\\
+{[+39] 055 4685 942}
+\end{minipage}
+\hfill
+\begin{minipage}[t]{0.32\textwidth}
+\textbf{Andrea Ichino}\\
+European University Institute\\
+Department of Economics\\
+\href{mailto:andrea.ichino@eui.eu}{andrea.ichino@eui.eu}\\
+{[+39] 055 4685 974}
+\end{minipage}
+
+\end{document}

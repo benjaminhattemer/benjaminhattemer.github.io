@@ -1,2 +1,8 @@
 .DS_Store
 .hugo_build.lock
+# LaTeX build files for the CV (the served copy lives in static/CV.pdf)
+cv/*.aux
+cv/*.log
+cv/*.out
+cv/*.pdf
+cv/build.log
