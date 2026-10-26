@@ -46,19 +46,6 @@ with *Sofía Sierra Vásquez* and *Adriano De Falco*
 with *Marie Alder* and *Eva Franzmeyer*  
 *Submitted*
 
-## Work in Progress
-
-**Optimal Free Allocation with Endogenous Firm Selection**
-
-**Dust Pollution, Mortality and Healthcare Infrastructure**  
-with *Ismael Moreno Martinez*
-
-**Temperature and Learning in Chile**  
-with *Sofía Sierra Vásquez*
-
-**Bloom and Bust: The Impact of Pollen on Workplace Safety**  
-with *Ismael Moreno Martinez* and *Martin Habets*
-
 ## Policy Work
 
 **A positive trade-off: Emissions reduction and costs under Phase IV of the Emissions Trading System**  
@@ -70,6 +57,8 @@ European Investment Bank, Chapter 5: *Investing in Green Transformation*
 
 ## Teaching Experience
 
+<div class="cv-row"><span><b>University of Helsinki</b></span><span class="cv-date">2026</span></div>
+<div class="cv-detail">Methods of Empirical Research (Bachelor's Programme in Economics), Lecturer</div>
 <div class="cv-row"><span><b>University of Amsterdam School of Economics</b></span><span class="cv-date">2019</span></div>
 <div class="cv-detail">Pre-master module in mathematics, Teaching Assistant</div>
 <div class="cv-row"><span><b>University of Trier</b></span><span class="cv-date">2016–2018</span></div>
