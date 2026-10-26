@@ -29,6 +29,8 @@ params:
               url: cv/
             - name: Research
               url: research/
+            - name: Teaching
+              url: teaching/
 
 markup:
     goldmark:

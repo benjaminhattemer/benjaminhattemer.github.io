@@ -70,15 +70,4 @@ with [Sofia Sierra Vasquez](https://sofiasierrav.com/)
 **Bloom and Bust: The Impact of Pollen on Workplace Safety** <br>
 with [Ismael Moreno-Martinez](https://ismaelmorenomartinez.eu/) and [Martin Habets](https://martinhabets.github.io/) <br>
 
-
-## Policy Work
-
-**Investment Report 2023/2024: Transforming for Competitiveness, European Investment Bank, Chapter 5**
-
-<br>
-
-**A positive trade-off: Emissions reduction and costs under Phase IV of the Emissions Trading System** <br>
-with Jan Eric Hagendorn and Fotios Kalantzis <br>
-EIB Working Paper 2024/05
-
 ---

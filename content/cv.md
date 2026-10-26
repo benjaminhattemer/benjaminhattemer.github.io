@@ -28,7 +28,7 @@ Supervisors: Thomas F. Crossley, Alexander Monge-Naranjo
 
 ## Research Fields
 
-Applied Economics, Environmental Economics, Climate Policy, Labour Economics
+Environmental Economics, Climate Policy, Labour Economics
 
 ## Publications
 
