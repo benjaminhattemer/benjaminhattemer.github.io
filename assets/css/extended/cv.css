@@ -1,0 +1,28 @@
+/* CV page (content/cv.md) */
+
+.cv-pdf a {
+    font-weight: 600;
+}
+
+.cv-row {
+    display: flex;
+    justify-content: space-between;
+    gap: 1rem;
+    margin-top: 0.6rem;
+}
+
+.cv-date {
+    flex-shrink: 0;
+    text-align: right;
+    white-space: nowrap;
+}
+
+.cv-detail {
+    margin-bottom: 0.4rem;
+}
+
+.cv-refs {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+    gap: 1.2rem;
+}
