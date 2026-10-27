@@ -42,7 +42,7 @@ This paper analyzes the impact of a recruitment policy aimed at improving the qu
 with [Marie Alder](https://mariealder.github.io/) and [Eva Franzmeyer](https://franzeva.github.io/) <br>
 [Draft](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5521119) <br> <i>Submitted</i>
 
-###### Presented at: WCERE 2026, TMEC 2026, NAERE 2026, Departmental Seminar University of Helsinki, IAERE 2026, Finnish Economic Association meeting 2026, SAEe 2025, Onzième Conférence Évaluation des Politiques Publique 2025, FIT Internal Seminar 2025, XXXVII SIEP Conference 2025, IAERE 2025, Departmental Seminar Utrecht University, International Conference on the Ex-post Evaluation of Emissions Trading 
+###### Presented at: NAWM 2027 (scheduled), EWMES 2026 (scheduled), VATT Seminar 2026, WCERE 2026, TMEC 2026, Helsinki GSE Environmental Seminar 2026, NAERE 2026, Departmental Seminar University of Helsinki, IAERE 2026, Finnish Economic Association meeting 2026, SAEe 2025, Onzième Conférence Évaluation des Politiques Publique 2025, FIT Internal Seminar 2025, XXXVII SIEP Conference 2025, IAERE 2025, Departmental Seminar Utrecht University, International Conference on the Ex-post Evaluation of Emissions Trading 
 
 <details>
     <summary> Abstract </summary>

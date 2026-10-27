@@ -77,8 +77,11 @@ European Investment Bank, Chapter 5: *Investing in Green Transformation*
 
 ## Presentations
 
+**2027**  
+North American Winter Meeting of the Econometric Society (NAWM, scheduled)
+
 **2026**  
-VATT Institute for Economic Research Seminar, 7th World Congress of Environmental and Resource Economists (WCERE), Toronto Meeting on the Economics of Climate Change (TMEC), Helsinki GSE Environmental Seminar, Nordic Annual Environmental and Resource Economics Workshop (NAERE), 14th Italian Association of Environmental and Resource Economists Annual Conference (IAERE), Annual Meeting of the Finnish Economic Association
+European Winter Meeting of the Econometric Society (EWMES, scheduled), VATT Institute for Economic Research Seminar, 7th World Congress of Environmental and Resource Economists (WCERE), Toronto Meeting on the Economics of Climate Change (TMEC), Helsinki GSE Environmental Seminar, Nordic Annual Environmental and Resource Economics Workshop (NAERE), 14th Italian Association of Environmental and Resource Economists Annual Conference (IAERE), Annual Meeting of the Finnish Economic Association
 
 **2025**  
 50th Simposio de la Asociación Española de Economía (SAEe), FIT Internal Yearly Meeting, XXXVII Società Italiana di Economia Pubblica (SIEP), International Conference on Ex-Post Evaluation of Emissions Trading, Departmental Seminar at Utrecht University School of Economics, 13th Italian Association of Environmental and Resource Economists Annual Conference (IAERE)
