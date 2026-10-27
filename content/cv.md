@@ -92,6 +92,10 @@ European Winter Meeting of the Econometric Society (EWMES, scheduled), VATT Inst
 **2023**  
 48th Simposio de la Asociación Española de Economía (SAEe), Ökonomisches Kolloquium IAAEU
 
+## Referee
+
+Journal of the Association of Environmental and Resource Economists
+
 ## Awards & Scholarships
 
 <div class="cv-row"><span>Vilfredo Pareto Prize, Honorary Mention, European University Institute</span><span class="cv-date">2026</span></div>
