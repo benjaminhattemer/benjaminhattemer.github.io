@@ -15,7 +15,7 @@ with [Ismael Moreno-Martinez](https://ismaelmorenomartinez.eu/) <br>
 
   <details>
     <summary> Abstract </summary>
-    This study provides causal estimates of the effect of air pollution on workplace safety using data on the universe of work accidents reported in Spain (2010-2019). We focus on a near-worldwide natural source of air pollution: mineral dust precipitation. Our estimates reveal dust precipitation marginal effects and overall burden on workplace safety are of the same order of magnitude as those of high temperatures. Impacts are widespread, spanning most worker and accident characteristics, and consistent with dust inducing human error across diverse tasks and activities. However, we find null effects for workers at the top quintile of the wage distribution.
+    This study provides novel causal estimates of the effect of air pollution on workplace safety using data on the universe of work accidents reported in Spain (2010–19). We focus on a near-worldwide natural source of air pollution: mineral dust precipitation. The results indicate that a day of dust precipitation increases work accidents by 1.4%. Our estimates reveal that dust events’ overall burden on workplace safety are of the same order of magnitude as those of high temperatures. Impacts are widespread, spanning most worker and accident characteristics, consistent with dust pollution inducing human error across a broad range of tasks and activities. We find significant effects for workers along most of the wage distribution, though we estimate null impacts for those in the top wage quintile. Dust precipitation induces occupational injuries both mild and severe, including those requiring over two months of sick leave.
   </details> 
 
 
@@ -46,7 +46,7 @@ with [Marie Alder](https://mariealder.github.io/) and [Eva Franzmeyer](https://f
 
 <details>
     <summary> Abstract </summary>
-This study provides new causal evidence on the firm-level effects of reducing free emission permits in emission trading systems. Using a difference-in-differences design, we exploit a reform that altered an eligibility threshold for free permit allocation. Receiving fewer free permits reduced emissions by more than 14 percent relative to firms that retained them. This reduction was accompanied by similar declines in revenue, employment, and assets. We develop a multi-product general equilibrium model that explains these patterns through a novel mechanism linking permit allocation to firms’ decisions. Firms that receive fewer free emission permits terminate their least productive product lines, increasing the market share of the remaining ones. Higher expected profits then encourage earlier adoption of an efficiency-improving technology. 
+This study provides causal evidence on firm-level effects of free emission permits in emissions trading systems (ETS). We exploit an allocation reform, causing some firms to lose a substantial share of free permits. Fewer permits reduced emissions at announcement, with effects of about 14 percent after implementation. Economic activity declined likewise but only after implementation. We develop a multi-product general equilibrium model explaining this timing through a novel mechanism linking permit allocation to firms’ product exit decisions. Firms receiving fewer free emission permits terminate their least productive products. Higher market shares for remaining products encourage earlier adoption of emission-reducing technology.
 </details> 
 
 <br>
