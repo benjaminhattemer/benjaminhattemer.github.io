@@ -22,18 +22,18 @@ with [Ismael Moreno-Martinez](https://ismaelmorenomartinez.eu/) <br>
 
 ## Working Papers
 
-**Recruiting Better Teachers? Evidence from a higher Education Reform in Chile** <br>
-with [Sofia Sierra Vasquez](https://sofiasierrav.com/) and [Adriano De Falco](https://www.adrianodefalco.com/home-page) <br> 
+**Recruiting Better Teachers? Evidence from a Higher Education Reform in Chile** <br>
+with [Sofía Sierra Vásquez](https://sofiasierrav.com/) and [Adriano De Falco](https://www.adrianodefalco.com/home-page) <br> 
 [Draft](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4874361) <br> <i>Submitted</i>
 
-###### Presented: 8th LEER conference, 1st CESifo/ifo Junior Workshop on the Economics of Education, EALE 2023, SAEe 2023, AIEL - Padua Workshop on the Economics of Human Capital 2024, EAYE conference 2024, 6th QMUL Economics and Finance Workshop (2024), BSE Summer Forum (2024), XVI Labour Economics Meeting, IPEW 2024, 39th AIEL Conference. 
+###### Presented: 8th LEER conference, 1st CESifo/ifo Junior Workshop on the Economics of Education, EALE 2023, SAEe 2023, AIEL - Padua Workshop on the Economics of Human Capital 2024, EAYE conference 2024, 6th QMUL Economics and Finance Workshop (2024), BSE Summer Forum (2024), XVI Labour Economics Meeting, IPEW 2024, 39th AIEL Conference, University of Bologna, Lund University, University of Magdeburg, SEW Quantitative Seminar (University of St. Gallen), SKILS Workshop (Laax). 
 
 ###### Prizes: [Luis Toharia Grant](https://www.aeet.eu/en/becas-luis-toharia/) for young researchers in Labour Economics
 ###### Coverage: [La Fonte](https://lafonte.eui.eu/2024/10/10/shaping-future-generations-analysing-teacher-recruitment-reform-in-chile/)
 
 <details>
     <summary> Abstract </summary>
-This paper analyzes the impact of a recruitment policy aimed at improving the quality of new teachers. The reform introduced a scholarship to incentivize the enrollment of high-achieving high school graduates in teacher training programs and imposed enrollment restrictions on low-achieving high school graduates. The screening device used to define achievement was the national standardized university entry exam. Using rich administrative data, we document that the reform was effective in improving the average test scores of new teachers, especially in public schools. To assess the impact of the reform on teacher quality, we construct teacher value-added (TVA) measures based on standardized test scores of their pupils. Our findings indicate that the reform led to a significant increase in the TVA of mathematics teachers, equivalent to 30\% of their standard deviation. However, it did not affect the average TVA of Spanish teachers. We provide evidence that this heterogeneity across subjects can be explained by differences in the predictive power of test scores on teacher quality. Finally, we show that the increase in average teacher quality cannot be explained solely by the higher presence of high-achieving teachers. 
+This paper analyzes the impact of a recruitment policy in Chile designed to improve the quality of new teachers by incentivizing high-achieving and restricting low-achieving high school graduates from entering the teaching profession. We document that the reform effectively improved the average test scores of new teachers. Comparing the value-added of teachers from cohorts that enrolled before and after the reform, we find that post-reform mathematics teachers are more effective, while we find no difference for Spanish teachers. Finally, we find that higher test scores account for only a small part of the effect for mathematics, which instead appears to operate through selection on unobserved teacher characteristics.
 </details> 
 
 <br>
