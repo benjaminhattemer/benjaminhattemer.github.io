@@ -7,7 +7,7 @@ description: "Publications, working papers, and work in progress."
 
 **Dust to Dust: Tracing Air Pollution’s Impact on Work Accidents** <br>
 with [Ismael Moreno-Martinez](https://ismaelmorenomartinez.eu/) <br> 
-[Draft](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4812658) <br> <i>Journal of the Association of Environmental and Resource Economists</i> 
+[Paper](https://www.journals.uchicago.edu/doi/abs/10.1086/739151) <br> <i>Journal of the Association of Environmental and Resource Economists</i> 
 
 ###### Presented at: SAEe 2025, 39th AIEL Conference, 24th EAERE Annual Conference, 2nd Young AERNA Day, 10th Atlantic Workshop on Energy and Environmental Economics; Early Career Workshop on the Environment, Climate Change and Disasters, 1st International Conference of the Georgian Economic Association, Microeconometrics Working Group EUI, Norges Bank, Institute for Labour Law and Industrial Relations in the European Union
 
